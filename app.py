@@ -11,6 +11,7 @@ def home():
         <h1>It's live!</h1>
         <p>If you're seeing this on a real URL (not localhost), your deployment worked.</p>
         <p>I just found out how deployment actually works.</p>
+        <p>This is a simple Flask app for testing deployments.</p>
       </body>
     </html>
     """
